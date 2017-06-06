@@ -400,16 +400,16 @@ Year,Rk,Pk,Tm,Round 1 Player,Player ID,Round 1 College,Yrs,Totals G,Totals MP,To
 2010,39,39,NYK,Landry Fields,fieldla01,Stanford University,5,255,6010,1731,1092,419,0.473,0.332,0.666,23.6,6.8,4.3,1.6,10.5,0.084,-0.1,2.8
 2010,40,40,IND,Lance Stephenson,stephla01,University of Cincinnati,7,358,8893,3106,1485,1081,0.451,0.307,0.69,24.8,8.7,4.1,3,13.8,0.074,-0.4,3.6
 2010,41,41,MIA,Jarvis Varnado,varnaja01,Mississippi State University,2,37,397,107,72,16,0.582,,0.518,10.7,2.9,1.9,0.4,0.7,0.089,-1.9,0
-2010,42,42,MIA,Da'Sean Butler,butleda01d,West Virginia University,,,,,,,,,,,,,,,,,
+2010,42,42,MIA,Da'Sean Butler,,West Virginia University,,,,,,,,,,,,,,,,,
 2010,43,43,LAL,Devin Ebanks,ebankde01,West Virginia University,3,63,711,224,122,24,0.385,0.222,0.722,11.3,3.6,1.9,0.4,0.5,0.035,-4.7,-0.5
 2010,44,44,MIL,Jerome Jordan,jordaje01,University of Tulsa,2,65,491,180,132,17,0.528,,0.852,7.6,2.8,2,0.3,1.7,0.168,0,0.2
 2010,45,45,MIN,Paulao Prestes,prestpa01,,,,,,,,,,,,,,,,,,
 2010,46,46,PHO,Gani Lawal,lawalga01,Georgia Institute of Technology,1,1,2,0,0,0,,,,2,0,0,0,0,-0.009,-4.9,0
-2010,47,47,MIL,Tiny Gallon,galloti01d,University of Oklahoma,,,,,,,,,,,,,,,,,
+2010,47,47,MIL,Tiny Gallon,,University of Oklahoma,,,,,,,,,,,,,,,,,
 2010,48,48,MIA,Latavious Williams,willila01,,,,,,,,,,,,,,,,,,
 2010,49,49,SAS,Ryan Richards,richary01,,,,,,,,,,,,,,,,,,
 2010,50,50,DAL,Solomon Alabi,alabiso01,Florida State University,2,26,181,39,61,5,0.314,,0.7,7,1.5,2.3,0.2,0,0.01,-5.4,-0.2
-2010,51,51,OKC,Magnum Rolle,rollema01d,Louisiana Tech University,,,,,,,,,,,,,,,,,
+2010,51,51,OKC,Magnum Rolle,,Louisiana Tech University,,,,,,,,,,,,,,,,,
 2010,52,52,BOS,Luke Harangody,haranlu01,University of Notre Dame,2,70,871,253,196,36,0.376,0.241,0.737,12.4,3.6,2.8,0.5,0.9,0.048,-3.3,-0.3
 2010,53,53,ATL,Pape Sy,sypa01,,1,3,21,7,3,2,0.333,0,1,7,2.3,1,0.7,0,-0.047,-6,0
 2010,54,54,LAC,Willie Warren,warrewi01,University of Oklahoma,1,19,134,37,12,27,0.371,0.333,0.75,7.1,1.9,0.6,1.4,0.2,0.065,-4.5,-0.1
